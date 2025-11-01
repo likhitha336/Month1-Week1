@@ -20,3 +20,12 @@ practiced initialization of arrays and objects and some of the methods on arrays
 worked with function declarations(named functions), function expressions(anonymous functions) and arrow functions
 worked on for, for of, for in, while and do while loops
 practiced some challenges on above topics which includes applying methods on strings, numbers, arrays and objects
+
+*** MONTH - 1 WEEK - 1 DAY - 3 ***
+
+Created new file for day3 in the same folder and committed the new changes to github repo
+practiced on First class functions, higher order function, closures
+practiced apply, call and bind methods on functions
+practiced difference between closures and function returning another function
+practiced immediately invoked function expressions
+worked on 2 challenges based on functions
