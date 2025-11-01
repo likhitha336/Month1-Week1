@@ -12,3 +12,11 @@ Completed these coding challenges:
 - BMI calculator and displaying who have highest BMI
 - Score calculator using average of 3 scores of 2 teams and displays who won trophy
 - leap year checker using function
+
+*** MONTH - 1 WEEK - 1 DAY - 2 ***
+
+Create a new file for day2 in the same folder and committed the new changes to github repo
+practiced initialization of arrays and objects and some of the methods on arrays and objects
+worked with function declarations(named functions), function expressions(anonymous functions) and arrow functions
+worked on for, for of, for in, while and do while loops
+practiced some challenges on above topics which includes applying methods on strings, numbers, arrays and objects
